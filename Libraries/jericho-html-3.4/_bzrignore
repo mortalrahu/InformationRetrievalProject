@@ -1,0 +1,7 @@
+/classes
+/dist
+/docs/javadoc
+/docs/javadoc-jar
+/samples/console/classes
+/samples/webapps/JerichoHTML.war
+/samples/webapps/JerichoHTML/WEB-INF/lib
